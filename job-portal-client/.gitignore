@@ -8,6 +8,13 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+src 
+public
+.eslintrc
+index
+package
+package-lock
+README
 dist
 dist-ssr
 *.local
